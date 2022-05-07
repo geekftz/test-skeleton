@@ -1,0 +1,18 @@
+.test {
+  margin: 10px;
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+}
+
+.test1 {
+  background-color: #f5f6f7;
+}
+
+.test2 {
+  background-color: #eee;
+}
+
+.test3 {
+  background-color: #8a2be2;
+}
